@@ -1,2 +1,2 @@
 # Used_Cars
-Jupyter Notebook of EDA and cleaning on publicly available used car dataset.  
+Jupyter Notebook of EDA and cleaning on publicly available Ebay car sales data.  
